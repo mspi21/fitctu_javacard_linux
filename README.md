@@ -9,7 +9,7 @@ The main purpose of this template is to help students at FIT CTU in Prague who w
 ### Prerequisites
 
 To set up a development environment for JavaCard 2.1, you need:
-- to be running Linux on an **AMD64 processor** (if you're on ARM, you can still edit the setup script and everything should work, but I'm not bothered with that),
+- to be running Linux on an **AMD64 processor** (if you're on x86, you can probably edit the setup script to fetch the correct JDK and everything should work, but I'm afraid ARM is not really supported),
 - have these programs available: `bash`, `wget`, `git`, `sha256sum`, `tar`, `unzip`, `python3` (tested with version 3.13.2).
 
 ### Project files
