@@ -1,0 +1,7 @@
+.venv/
+build/
+javacard/gp.jar
+javacard/java_card_kit-2_2_2-rr-bin-linux-do.zip
+javacard/java_card_kit-2_2_2-rr-bin-linux-do/
+javacard/openlogic*
+
